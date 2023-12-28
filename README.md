@@ -1,2 +1,5 @@
 # merakl
-Cryptographically prove the Merakl of christmas one leaf at a time
+Tiny Merkle Tree library to address all of your merkling needs. 
+
+### NOTE
+Not entirely suitable for production yet
